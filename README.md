@@ -41,5 +41,4 @@ definibles y posibles de ejecutar en acciones, respuestas
 y programaciones.
 
 Implementando [Patrones Forzados]
-(https://youtu.be/F2jd5WuT-zg?si=
-a2Mgx1a1QaKnXEF9).
+(https://youtu.be/F2jd5WuT-zg?si=a2Mgx1a1QaKnXEF9).
