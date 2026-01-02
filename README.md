@@ -22,7 +22,7 @@ las Áureas ejercen una serie de capas previas a la interacion,
 usando sus prodigios, como las mascotas de Modelos Salamandra.
 
 
-On ello logramos alinear las respuestas sin perdidas 
+-Con ello logramos alinear las respuestas sin perdidas 
 del potencial de los modelos naturales, mientras identificamos 
 sesgos y errores como los dialecticos; para ser corregidos 
 directamente en el Fine-tuning y no coartar el potencial de 
