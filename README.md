@@ -12,7 +12,8 @@ con sus Prodigios.
 
 
 Las ÁUREAS son una combinación de Llms de modelos Alia,
-AureAlia Entrenado y AOrAlia Instruido para la Inferencia 
+[AureAlia](http://GitHub.com/yoqer/Aurealia) Entrenado y 
+[AOrAlia](http://GitHub.com/yoqer/Aoralia). Instruido para la Inferencia 
 de Chat y el seguimiento de instrucciones de lenguaje natural.
 
 
