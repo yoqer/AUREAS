@@ -1,5 +1,5 @@
 ![aurora](https://github.com/user-attachments/assets/810a7896-4924-48a8-ae44-ab889bd0a122)
-# AUREAS
+# AUREAS.   
 Las Hermanas Aureas, eran unas... 
 Universitarias, que se fueron con AmAlia, 
 que era otra ...  Universitaria.   
@@ -8,18 +8,22 @@ Juntas componen la Áurea Boreal al fusionarse
 con sus Mascotas y convertirse en Super Heroínas
 con sus Prodigios. 
 
+*
+
 ![antithesis-aoc](https://github.com/user-attachments/assets/bec9dc87-0feb-4b88-9c45-a30d1f8d5b3b)
 
 
 Las ÁUREAS son una combinación de Llms de modelos Alia,
 [AureAlia](http://GitHub.com/yoqer/Aurealia) Entrenado y 
-[AOrAlia](http://GitHub.com/yoqer/Aoralia). Instruido para la Inferencia 
+[AOrAlia](http://GitHub.com/yoqer/Aoralia)
+Instruido
+para la Inferencia 
 de Chat y el seguimiento de instrucciones de lenguaje natural.
 
 
 -Basado en el sistema del [MobyDep](http://MobyDep.com) ; 
 
-las Áureas ejercen una serie de capas previas a la interacion, 
+Las Áureas ejercen una serie de capas previas a la interacion, 
 usando sus prodigios, como las mascotas de Modelos Salamandra.
 
 
