@@ -45,11 +45,21 @@ Implementando [Patrones Forzados](https://youtu.be/F2jd5WuT-zg?si=a2Mgx1a1QaKnXE
 
 
 #
-Para entender como interacionan las AUREAS y conocer requisitos de GPU, 
+Para entender interaciones parecidas, como: AUREAS; y conocer requisitos de GPU, 
 te recomendamos 
 ver este vídeo para comprender el funcionamiento de un 
-modelo similar de semejantes interaciones como el de 40B Loop.
+modelo similar de semejantes interaciones como el de: 40B Loop.
 https://youtu.be/ugTAmQYs9fk?si=dHGScMBZwcsMEtLi
 
 
 [<img width="960" height="960" alt="IMG_20260103_081526" src="https://github.com/user-attachments/assets/9772f5a7-b903-45c4-9e22-5752e264af1c"/>](http://GitHub.com/yoqer/Aurealia). 
+
+
+
+____________________________________________________________
+
+
+Ya usamos el Modelo de Alia, del BSC; que renombramos para la ejecución especifica a ser AurealIA; como el modelo lingüístico en Castellano, en las correcciones literarias, de los escritos de la Librería Mágica; ya usando combinaciones con los modelos Salamandra de traducción para textos en lenguas cooficiales.
+
+
+-Puedes usar sus modelos basicos para tus escritos y documentos diversos Aqui: [Librería El Zorrillo Parisini.](http://librery.store)
