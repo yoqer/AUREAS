@@ -42,3 +42,11 @@ y programaciones.
 
 Implementando [Patrones Forzados]
 (https://youtu.be/F2jd5WuT-zg?si=a2Mgx1a1QaKnXEF9).
+
+
+Para entender y conocer los requisitos de GPU, te recomendamos 
+ver este vídeo para comprender el funcionamiento de un 
+modelo similar de semejantes interaciones como el de 40B Loop.
+https://youtu.be/ugTAmQYs9fk?si=dHGScMBZwcsMEtLi
+
+
