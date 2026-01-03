@@ -67,5 +67,12 @@ Ya usamos el Modelo de Alia, del [BSC](https://langtech-bsc.gitbook.io/alia-kit/
 
 
 
--Pero AhOra con el uso de AOrAlIA damos un pequeño paso más al incluir la lengua Española y el nuevo lenguaje máquina Toon, como los de traducción generalista en el Ecosistema AlIAmAlIA, de traducciones Multiespecie; mientras seguimos afinando con mas efectividad, bajo certeza, sin corrupciones, censuras, ni sesgos; para lograr el ajuste de un nuevo modelo de ambito generalista que se combina con la Arquitectura MoE de Mezcla de Expertos; que se identifica como LoRA; en el que las discusiones previas entre modelos dan al modelo de LoRA; el rumbo de nuevas predicciones de modelos Llm no unificados en fusiones innecesarias; pero completando en conjuncion modelos divergentes en unos razonamientos unicos para cada acción y prompt que se desee ejecutar.
+-Pero AhOra con el uso de AOrAlIA damos un pequeño paso más al incluir la lengua Española y el nuevo lenguaje máquina Toon, como los de traducción generalista en el Ecosistema AlIAmAlIA, de traducciones Multiespecie; mientras seguimos afinando con mas efectividad, bajo certeza, sin corrupciones, censuras, ni sesgos; para lograr el ajuste de un nuevo modelo de ambito generalista que se combina con la Arquitectura MoE de Mezcla de Expertos; que se identifica como LoRA; en el que las discusiones previas entre modelos dan al modelo de LoRA; el rumbo de nuevas predicciones de modelos Llm no unificados en fusiones innecesarias; en conjunción completando modelos divergentes en unos razonamientos unicos para cada acción y Prompt que se desee ejecutar.
+
+
+
+-Tras las Capas de Aurea Boreal, las Mascotas filtradoras ofrecen respuestas alineadas y coordinadas. - 0 +.
+
+
+
 
