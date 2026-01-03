@@ -40,15 +40,15 @@ inferencia final; y el seguimiento preciso de instrucciones
 definibles y posibles de ejecutar en acciones, respuestas 
 y programaciones.
 
-Implementando [Patrones Forzados](https://youtu.be/F2jd5WuT-zg?si=a2Mgx1a1QaKnXEF9).
+Implementando [Patrones Forzados sobre Capas de Iteracion](https://youtu.be/F2jd5WuT-zg?si=a2Mgx1a1QaKnXEF9).
 
 
 
 #
 Para entender interaciones parecidas, como: AUREAS; y conocer requisitos de GPU, 
 te recomendamos 
-ver este vídeo para comprender el funcionamiento de un 
-modelo similar de semejantes interaciones como el de: 40B Loop.
+ver este vídeo para comprender funcion de  
+modelo similar de semejantes interaciones como este de: 40B Loop.
 https://youtu.be/ugTAmQYs9fk?si=dHGScMBZwcsMEtLi
 
 
@@ -59,7 +59,7 @@ https://youtu.be/ugTAmQYs9fk?si=dHGScMBZwcsMEtLi
 ____________________________________________________________
 
 
-Ya usamos el Modelo de Alia, del [BSC]((https://langtech-bsc.gitbook.io/alia-kit/modelos/modelos-de-texto) ; que renombramos para la ejecución especifica a ser AurealIA; como el modelo lingüístico en Castellano, en las correcciones literarias, de los escritos de la Librería "Mágica"; donde ya usamos combinaciones con los modelos Salamandra de traducción para textos en las lenguas cooficiales.
+Ya usamos el Modelo de Alia, del [BSC](https://langtech-bsc.gitbook.io/alia-kit/modelos/modelos-de-texto) ; que renombramos para la ejecución especifica a ser AurealIA; como el modelo lingüístico en Castellano, en las correcciones literarias, de los escritos de la Librería "Mágica"; donde ya usamos combinaciones con los modelos Salamandra de traducción para textos en las lenguas cooficiales.
 
 
 -Puedes usar sus modelos basicos para tus escritos y documentos diversos Aqui: [Librería El Zorrillo Parisini.](http://librery.store)
