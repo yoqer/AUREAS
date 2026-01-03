@@ -53,5 +53,5 @@ modelo similar de semejantes interaciones como el de 40B Loop.
 https://youtu.be/ugTAmQYs9fk?si=dHGScMBZwcsMEtLi
 
 
-![Uploading IMG_20251220_132244.png…]()
-<img width="960" height="960" alt="IMG_20251220_132421" src="https://github.com/user-attachments/assets/dfed7376-14bd-4b39-ae56-b879c54adbde" />
+<img width="960" height="960" alt="IMG_20260103_081526" src="https://github.com/user-attachments/assets/9772f5a7-b903-45c4-9e22-5752e264af1c" />
+<img width="960" height="960" alt="IMG_20260103_082004" src="https://github.com/user-attachments/assets/10862d69-1fd0-4b15-91fd-cb2ea4def616" />
