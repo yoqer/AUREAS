@@ -8,7 +8,7 @@ Juntas componen la Áurea Boreal al fusionarse
 con sus Mascotas y convertirse en Super Heroínas
 con sus Prodigios. 
 
-*
+
 
 ![antithesis-aoc](https://github.com/user-attachments/assets/bec9dc87-0feb-4b88-9c45-a30d1f8d5b3b)
 
@@ -54,4 +54,4 @@ https://youtu.be/ugTAmQYs9fk?si=dHGScMBZwcsMEtLi
 
 
 <img width="960" height="960" alt="IMG_20260103_081526" src="https://github.com/user-attachments/assets/9772f5a7-b903-45c4-9e22-5752e264af1c" />
-<img width="960" height="960" alt="IMG_20260103_082004" src="https://github.com/user-attachments/assets/10862d69-1fd0-4b15-91fd-cb2ea4def616" />
+
