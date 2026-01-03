@@ -86,7 +86,7 @@ entrenadas al libre albedrío.
 ______________________________
 
 
-Aqui puedes añadir o usar otras combinaciones de Aureolas añadidas para interacción en capas, razonamiento, seguimiento de instrucciones agenticas y demas programaciones diversas.
+Aqui puedes añadir o usar otras combinaciones de AureOlas añadidas para interacción, sobre en capas, razonamiento, seguimiento de instrucciones agenticas y diversas programaciones:
 
 
 
