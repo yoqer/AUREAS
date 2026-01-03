@@ -45,7 +45,7 @@ Implementando [Patrones Forzados](https://youtu.be/F2jd5WuT-zg?si=a2Mgx1a1QaKnXE
 
 
 #
-Para entender y conocer los requisitos de GPU,
+Para entender como interacionan las AUREAS y conocer requisitos de GPU, 
 te recomendamos 
 ver este vídeo para comprender el funcionamiento de un 
 modelo similar de semejantes interaciones como el de 40B Loop.
