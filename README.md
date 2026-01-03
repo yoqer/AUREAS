@@ -46,10 +46,12 @@ Implementando [Patrones Forzados]
 
 
 #
-#Para entender y conocer los requisitos de GPU,
+Para entender y conocer los requisitos de GPU,
 te recomendamos 
 ver este vídeo para comprender el funcionamiento de un 
 modelo similar de semejantes interaciones como el de 40B Loop.
 https://youtu.be/ugTAmQYs9fk?si=dHGScMBZwcsMEtLi
 
 
+![Uploading IMG_20251220_132244.png…]()
+<img width="960" height="960" alt="IMG_20251220_132421" src="https://github.com/user-attachments/assets/dfed7376-14bd-4b39-ae56-b879c54adbde" />
