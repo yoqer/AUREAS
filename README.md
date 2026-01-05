@@ -77,7 +77,8 @@ Ya usamos el Modelo de Alia, del [BSC](https://langtech-bsc.gitbook.io/alia-kit/
 
 
 -Tras las Capas de Aurea Boreal, Modelos y Mascotas filtradoras ofrecen respuestas alineadas y coordinadas. 
-   ( - 0 + = 0.6 < 0.7 + )
+
+   ( - 0 + = - 0.6 < 0.7 + )
   
 
 
@@ -90,7 +91,8 @@ Las AUREAS, en diversas acciones Boureales, es un sistema de Capas completas que
 entrenadas al libre albedrío.
 
 
-______________________________
+_____________________________
+
 
 
 Aqui puedes añadir o usar otras combinaciones de AureOlas añadidas para interacción, sobre sus capas, razonamiento, seguimiento de instrucciones agenticas y diversas programaciones:
