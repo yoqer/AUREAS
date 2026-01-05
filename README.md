@@ -77,12 +77,12 @@ Ya usamos el Modelo de Alia, del [BSC](https://langtech-bsc.gitbook.io/alia-kit/
 
 
 -Tras las Capas de Aurea Boreal, Modelos y Mascotas filtradoras ofrecen respuestas alineadas y coordinadas. 
-- 0 + = 0.6 < 0.7 +
+   ( - 0 + = 0.6 < 0.7 + )
   
 
 
 
-______________________________
+_____________________________
 
 
 
