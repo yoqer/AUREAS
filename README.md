@@ -52,6 +52,11 @@ modelo similar de semejantes interaciones como este de: 40B Loop.
 https://youtu.be/ugTAmQYs9fk?si=dHGScMBZwcsMEtLi
 
 
+# 
+O modelos Agenticos como los RLM:  
+https://youtu.be/8qcZRrAKsMY?si=3nfzz7R0D9pkycZT
+
+
 [<img width="960" height="960" alt="IMG_20260103_081526" src="https://github.com/user-attachments/assets/9772f5a7-b903-45c4-9e22-5752e264af1c"/>](http://GitHub.com/yoqer/Aurealia). 
 
 
