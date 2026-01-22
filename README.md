@@ -21,7 +21,7 @@ para la Inferencia
 de Chat y el seguimiento de instrucciones de lenguaje natural.
 
 
--Basado en el sistema del [MobyDep](http://MobyDep.com) ; 
+-Basado en el sistema del [MobyDep](http://MobyDep.com); 
 
 Las Áureas ejercen una serie de capas previas a la interacion, 
 usando sus prodigios, como las mascotas de Modelos Salamandra.
@@ -61,13 +61,14 @@ https://youtu.be/8qcZRrAKsMY?si=3nfzz7R0D9pkycZT
 
 
 
-____________________________________________________________
+__________________________________________________________
+
 
 
 Ya usamos el Modelo de Alia, del [BSC](https://langtech-bsc.gitbook.io/alia-kit/modelos/modelos-de-texto) ; que renombramos para la ejecución especifica a ser AurealIA; como el modelo lingüístico en Castellano, en las correcciones literarias, de los escritos de la Librería "Mágica"; donde ya usamos combinaciones con los modelos Salamandra de traducción para escrituras en las lenguas cooficiales.
 
 
--Puedes usar sus modelos basicos para tus escritos y documentos diversos Aqui: [Librería El Zorrillo Parisini.](http://librery.store)
+-Puedes usar sus modelos basicos para tus escritos y documentos diversos Aqui: [El Zorrillo Parisini.](http://carlomaxxine.com/librery/libreando.html)
 
 
 
