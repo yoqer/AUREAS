@@ -68,7 +68,7 @@ __________________________________________________________
 Ya usamos el Modelo de Alia, del [BSC](https://langtech-bsc.gitbook.io/alia-kit/modelos/modelos-de-texto) ; que renombramos para la ejecución especifica a ser AurealIA; como el modelo lingüístico en Castellano, en las correcciones literarias, de los escritos de la Librería "Mágica"; donde ya usamos combinaciones con los modelos Salamandra de traducción para escrituras en las lenguas cooficiales.
 
 
--Puedes usar sus modelos basicos para tus escritos y documentos diversos Aqui: [El Zorrillo Parisini.](http://carlomaxxine.com/librery/libreando.html)
+-Puedes usar sus modelos basicos para tus escritos y documentos diversos Aqui: La Libreria [El Zorrillo Parisini.](http://carlomaxxine.com/librery/libreando.html)
 
 
 
